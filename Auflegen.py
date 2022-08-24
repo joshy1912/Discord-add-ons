@@ -1,0 +1,10 @@
+import pyautogui as py
+py.press ('win')
+py.write ('discord')
+py.press ('enter')
+py.sleep (1)
+py.moveTo (x=446, y=1257)
+py.click ()
+py.keyDown ('win')
+py.press ('d')
+py.keyUp ('win')
