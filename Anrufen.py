@@ -14,4 +14,4 @@ py.sleep (1)
 py.press ('enter')
 py.moveTo (x=1953, y=116)
 py.click ()
-py.leftClick
+py.leftClick()
